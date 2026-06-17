@@ -1,0 +1,17 @@
+.env
+.venv
+*.db
+local_uploads
+backend/local_uploads
+.next
+node_modules
+__pycache__
+*.pyc
+.pytest_cache
+.mypy_cache
+.DS_Store
+dist
+build
+*.egg-info
+coverage
+htmlcov
